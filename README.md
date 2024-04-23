@@ -41,7 +41,7 @@ While the project meets the main requirements and is robust and user-friendly, t
 ## Installation
 To run the drone simulation project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/drone-simulation.git`
+1. Clone the repository: `git clone https://github.com/mo-ai-source/drone-simulation.git`
 2. Open the project in Eclipse IDE.
 3. Make sure you have JavaFX properly set up in your Eclipse environment.
 4. Build the project and resolve any dependencies.
